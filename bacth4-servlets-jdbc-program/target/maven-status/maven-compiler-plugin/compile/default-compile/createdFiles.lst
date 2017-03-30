@@ -1,0 +1,4 @@
+com\bellinfo\batch4\repository\RespositoryDAO.class
+com\bellinf\batch4\servlet\RegisterServlet.class
+com\bellinfo\batch4\modal\RegistrationDetails.class
+com\bellinf\batch4\servlet\LoginServlet.class
